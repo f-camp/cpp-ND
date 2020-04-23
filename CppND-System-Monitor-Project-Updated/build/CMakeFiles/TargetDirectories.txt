@@ -1,0 +1,4 @@
+/home/rocket/git_sources/udacity/cpp_nanodegree/CppND-System-Monitor-Project-Updated/build/CMakeFiles/rebuild_cache.dir
+/home/rocket/git_sources/udacity/cpp_nanodegree/CppND-System-Monitor-Project-Updated/build/CMakeFiles/edit_cache.dir
+/home/rocket/git_sources/udacity/cpp_nanodegree/CppND-System-Monitor-Project-Updated/build/CMakeFiles/monitor.dir
+/home/rocket/git_sources/udacity/cpp_nanodegree/CppND-System-Monitor-Project-Updated/build/CMakeFiles/test.dir

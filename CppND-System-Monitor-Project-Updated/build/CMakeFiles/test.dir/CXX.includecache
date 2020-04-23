@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/linux_parser.h
+fstream
+-
+regex
+-
+string
+-
+
+/home/rocket/git_sources/udacity/cpp_nanodegree/CppND-System-Monitor-Project-Updated/test/test.cpp
+string
+-
+vector
+-
+fstream
+-
+array
+-
+iostream
+-
+linux_parser.h
+-
+
